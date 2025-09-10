@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['text_paragraph']
+
+roboflow:
+  workspace: webassic-loiut
+  project: page_detection-s9q8u
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/webassic-loiut/page_detection-s9q8u/dataset/2
