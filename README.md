@@ -22,7 +22,7 @@ This system doesn't just draw a box; it understands the exact contours of the ph
 *The model accurately identifies the boundaries of the script despite the background.*
 
 ### 2. The Final Output: Auto-Straightened & Cropped
-![Final Result](assets/final_result.png)
+![Final Result](assets/final_result.jpg)
 *The skewed, raw photo is geometrically transformed into a clean, flat scan ready for the archive.*
 
 ## 🛠️ Tech Stack
