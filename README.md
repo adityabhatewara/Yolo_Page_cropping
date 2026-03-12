@@ -18,11 +18,11 @@ This system doesn't just draw a box; it understands the exact contours of the ph
 
 
 ### 1. Original vs. YOLO Segmentation Mask
-![Segmentation Step](./assets/segmentation.png)
+![Segmentation Step](assets/segmentation.png)
 *The model accurately identifies the boundaries of the script despite the background.*
 
 ### 2. The Final Output: Auto-Straightened & Cropped
-![Final Result](./assets/final_result.png)
+![Final Result](assets/final_result.png)
 *The skewed, raw photo is geometrically transformed into a clean, flat scan ready for the archive.*
 
 ## 🛠️ Tech Stack
